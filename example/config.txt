@@ -1,0 +1,2 @@
+Prefix plugins/GeneSetEnrich/example/
+Plugin GeneSetEnrich inputfile norm.unpad.csv outputfile gage.rds
